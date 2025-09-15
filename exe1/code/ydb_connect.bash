@@ -1,0 +1,1 @@
+ydb -e grpcs://ydb.serverless.yandexcloud.net:2135 --yc-token-file ~/.tokens/.ya_token -d /ru-central1/b1gmu1d5ui51bunc0i7q/etnuonscj6nljs8c0rdc
